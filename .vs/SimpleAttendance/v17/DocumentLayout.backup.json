@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\rafida.hamada\\source\\repos\\SimpleAttendance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2918728-DFC0-4FB7-8078-15947B8BBE08}|SimpleAttendance.csproj|c:\\users\\rafida.hamada\\source\\repos\\simpleattendance\\views\\attendance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2918728-DFC0-4FB7-8078-15947B8BBE08}|SimpleAttendance.csproj|solutionrelative:views\\attendance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D2918728-DFC0-4FB7-8078-15947B8BBE08}|SimpleAttendance.csproj|c:\\users\\rafida.hamada\\source\\repos\\simpleattendance\\views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2918728-DFC0-4FB7-8078-15947B8BBE08}|SimpleAttendance.csproj|solutionrelative:views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2918728-DFC0-4FB7-8078-15947B8BBE08}|SimpleAttendance.csproj|c:\\users\\rafida.hamada\\source\\repos\\simpleattendance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\rafida.hamada\\source\\repos\\SimpleAttendance\\Views\\Attendance\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Attendance\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\rafida.hamada\\source\\repos\\SimpleAttendance\\Views\\Attendance\\Edit.cshtml*",
-              "RelativeToolTip": "Views\\Attendance\\Edit.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rafida.hamada\\source\\repos\\SimpleAttendance\\Views\\Attendance\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Attendance\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rafida.hamada\\source\\repos\\SimpleAttendance\\Views\\Attendance\\Create.cshtml",
+              "RelativeToolTip": "Views\\Attendance\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-13T14:06:18.053Z",
+              "WhenOpened": "2026-04-13T14:41:26.014Z",
               "EditorCaption": ""
             },
             {
