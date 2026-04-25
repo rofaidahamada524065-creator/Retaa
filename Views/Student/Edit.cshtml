@@ -1,0 +1,15 @@
+﻿@model Student
+<h2>Add Nemw Student</h2>
+<a asp-action="Index">Back</a>
+<form method="post" asp-action="Edit">
+    <input asp-for="StudentId" type="hidden" />
+    <div>
+        <label>Student Name</label>
+        <input asp-for="StudentName" />
+    </div>
+    <div>
+        <label>Email</label>
+        <input asp-for="Email" />
+    </div>
+    <button type="submit">Save</button>
+</form>

@@ -1,0 +1,36 @@
+﻿@model SimpleAttendance.ViewModel.AttendanceVM
+<h2>Add Attendance</h2>
+<a asp-action="Index">Back</a>
+<form asp-action="Edit" method="post">
+    
+    <div>
+        <select asp-for="StudentId">
+            @foreach (var a in Model.Studentss)
+            {
+                <option value="@a.StudentId">@a.StudentName </option>
+            }
+
+        </select>
+    </div>
+    <div>
+        <select asp-for="SubjectId">
+            @foreach (var a in Model.Subjectss)
+            {
+                <option value="@a.SubjectId">@a.SubjectName </option>
+            }
+
+        </select>
+    </div>
+    <div>
+        <label>Date</label>
+        <input asp-for="Date" />
+    </div>
+    <div>
+        <select asp-for="Status">
+            <option value="Present">Present</option>
+            <option value="Absent">Absent</option>
+        </select>
+    </div>
+    <button type="submit">Save</button>
+
+</form>

@@ -1,0 +1,19 @@
+﻿@model List<Subject>
+<h2>Student</h2>
+<a asp-action="Create">Add New Subject</a>
+<table class="table">
+    <tr>
+        <td>SubjectId</td>
+        <td>SubjectName</td>
+        
+    </tr>
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td>@s.SubjectId</td>
+            <td>@s.SubjectName</td>
+           
+            
+        </tr>
+    }
+</table>

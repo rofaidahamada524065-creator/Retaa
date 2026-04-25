@@ -1,0 +1,47 @@
+﻿@model SimpleAttendance.ViewModel.AttendanceVM
+
+<h2>Attendance</h2>
+<form method="get" asp-action="Index">
+    <select asp-for="StudentId">
+        <option value="">All Students</option>
+
+        @foreach (var s in Model.Studentss)
+        {
+            <option value="@s.StudentId">@s.StudentName</option>
+        }
+
+    </select>
+
+
+    <select asp-for="SubjectId">
+        <option value="">All Subjects</option>
+        @foreach (var sub in Model.Subjectss)
+        {
+            <option value="@sub.SubjectId">@sub.SubjectName</option>
+        }
+    </select>
+
+    <button type="submit">Filter</button>
+</form>
+<a asp-action="Create">Add New Attendance</a>
+
+<table class="table">
+    <tr>
+        <td>AttendanceId</td>
+        <td>Date</td>
+        <td>Status</td>
+        <td>StudentId</td>
+        <td>SubjectId</td>
+    </tr>
+
+    @foreach (var a in Model.attendances)
+    {
+        <tr>
+            <td>@a.AttendanceId</td>
+            <td>@a.Date</td>
+            <td>@a.Status</td>
+            <td>@a.StudentId</td>
+            <td>@a.SubjectId</td>
+        </tr>
+    }
+</table>

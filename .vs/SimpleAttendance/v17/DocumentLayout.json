@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafida.hamada\\source\\repos\\SimpleAttendance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2918728-DFC0-4FB7-8078-15947B8BBE08}|SimpleAttendance.csproj|c:\\users\\rafida.hamada\\source\\repos\\simpleattendance\\views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2918728-DFC0-4FB7-8078-15947B8BBE08}|SimpleAttendance.csproj|solutionrelative:views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2918728-DFC0-4FB7-8078-15947B8BBE08}|SimpleAttendance.csproj|c:\\users\\rafida.hamada\\source\\repos\\simpleattendance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2918728-DFC0-4FB7-8078-15947B8BBE08}|SimpleAttendance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2918728-DFC0-4FB7-8078-15947B8BBE08}|SimpleAttendance.csproj|c:\\users\\rafida.hamada\\source\\repos\\simpleattendance\\viewmodel\\attendancevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2918728-DFC0-4FB7-8078-15947B8BBE08}|SimpleAttendance.csproj|solutionrelative:viewmodel\\attendancevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rafida.hamada\\source\\repos\\SimpleAttendance\\Views\\Attendance\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Attendance\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rafida.hamada\\source\\repos\\SimpleAttendance\\Views\\Attendance\\Create.cshtml",
+              "RelativeToolTip": "Views\\Attendance\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T14:41:26.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafida.hamada\\source\\repos\\SimpleAttendance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rafida.hamada\\source\\repos\\SimpleAttendance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:17:33.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendanceVM.cs",
+              "DocumentMoniker": "C:\\Users\\rafida.hamada\\source\\repos\\SimpleAttendance\\ViewModel\\AttendanceVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\AttendanceVM.cs",
+              "ToolTip": "C:\\Users\\rafida.hamada\\source\\repos\\SimpleAttendance\\ViewModel\\AttendanceVM.cs",
+              "RelativeToolTip": "ViewModel\\AttendanceVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:27:38.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
